@@ -1,0 +1,6 @@
+LOG: 2024/02/04 22:15:55 main.go:21: This is a log message: test 1
+LOG: 2024/02/04 22:15:55 main.go:22: This is a log message: test 2
+LOG: 2024/02/04 22:15:55 main.go:23: This is a log message: test 3
+errors: 2024/02/04 22:15:55 main.go:26: This is a log message: test 4
+errors: 2024/02/04 22:15:55 main.go:27: This is a log message: test 5
+errors: 2024/02/04 22:15:55 main.go:28: This is a log message: test 6

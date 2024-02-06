@@ -1,0 +1,4 @@
+github.com/MartinMSalas/Go_MyPackages v0.0.3 h1:hEdE51KNb4KxiUWy59UtehnfFk/hTcZKAwOZvoHs6ys=
+github.com/MartinMSalas/Go_MyPackages v0.0.3/go.mod h1:ezbR39s4FSB0/Ef/sknRT3kGr5dFo8lJx986n8q+Doc=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
