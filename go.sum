@@ -2,3 +2,5 @@ github.com/MartinMSalas/Go_MyPackages v0.0.3 h1:hEdE51KNb4KxiUWy59UtehnfFk/hTcZK
 github.com/MartinMSalas/Go_MyPackages v0.0.3/go.mod h1:ezbR39s4FSB0/Ef/sknRT3kGr5dFo8lJx986n8q+Doc=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+golang.org/x/exp v0.0.0-20240205201215-2c58cdc269a3 h1:/RIbNt/Zr7rVhIkQhooTxCxFcdWLGIKnZA4IXNFSrvo=
+golang.org/x/exp v0.0.0-20240205201215-2c58cdc269a3/go.mod h1:idGWGoKP1toJGkd5/ig9ZLuPcZBC3ewk7SzmH0uou08=
